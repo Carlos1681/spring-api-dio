@@ -14,8 +14,6 @@ public class Notification {
     @Temporal(TemporalType.TIMESTAMP)
     private Date timestamp;
 
-    // Getters and setters
-
 
     public Long getId() {
         return id;

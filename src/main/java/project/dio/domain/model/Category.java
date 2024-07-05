@@ -15,7 +15,6 @@ public class Category {
     @Temporal(TemporalType.TIMESTAMP)
     private Date createdAt;
 
-    // Getters and setters
 
 
     public Date getCreatedAt() {

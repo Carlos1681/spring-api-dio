@@ -16,7 +16,6 @@ public class Coupon {
     private Date expirationDate;
     private Double discountAmount;
 
-    // Getters and setters
 
 
     public String getCode() {

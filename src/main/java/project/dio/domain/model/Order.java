@@ -13,8 +13,6 @@ public class Order {
     private Date date;
     private Double totalAmount;
 
-    // Getters and setters
-
 
     public Date getDate() {
         return date;

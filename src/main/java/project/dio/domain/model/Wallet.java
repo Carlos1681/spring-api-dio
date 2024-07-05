@@ -10,7 +10,6 @@ public class Wallet {
 
     private Double balance;
 
-    // Getters and setters
 
     public Double getBalance() {
         return balance;

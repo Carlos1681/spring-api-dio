@@ -28,7 +28,6 @@ public class User {
     @OneToMany(cascade = CascadeType.ALL, orphanRemoval = true, fetch = FetchType.EAGER)
     private List<Coupon> coupons;
 
-    // Getters and setters
 
 
     public List<Category> getCategories() {
